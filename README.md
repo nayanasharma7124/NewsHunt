@@ -7,7 +7,7 @@ NewsHunt is a news analysis system that processes and classifies news articles u
 
 ## ✨ Features
 - News data processing  
-- Text preprocessing (tokenization, cleaning)  
+- Text preprocessing (cleaning)  
 - News classification / recommendation  
 - NLP-based analysis  
 - User-focused results  
@@ -17,17 +17,16 @@ NewsHunt is a news analysis system that processes and classifies news articles u
 ## 🛠️ Tech Stack
 - Python  
 - Pandas, NumPy  
-- NLP (NLTK / SpaCy)  
+- LangChain with ChatGroq (LLM-based NLP) 
 - Scikit-learn
 
 ---
 
 ## 📊 Project Workflow
 1. Data collection (news dataset)  
-2. Text preprocessing  
-3. Feature extraction (TF-IDF / embeddings)  
-4. Model training  
-5. Prediction and output generation
+2. Text preprocessing   
+3. Model training  
+4. Prediction and output generation
 
 ---
 
