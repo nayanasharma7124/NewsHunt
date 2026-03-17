@@ -1,8 +1,5 @@
 # 📰 3. NewsHunt – News Analysis / Recommendation
 
-```markdown
-# 📰 NewsHunt - News Analysis & Recommendation System
-
 ## 📌 Project Description
 NewsHunt is a news analysis system that processes and classifies news articles using Natural Language Processing techniques. It can categorize or recommend news based on user interest.
 
