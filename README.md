@@ -14,6 +14,19 @@ NewsHunt is a news analysis system that processes and classifies news articles u
 
 ---
 
+## 📸 Screenshots
+
+### 🔍 User Query
+![Query](images/newshunt_input_query.png)
+
+### 🧠 Model Response
+![Response](images/newshunt_response_output.png)
+
+### ⚙️ Processing Flow
+![Flow](images/newshunt_processing_flow.png)
+
+---
+
 ## 🛠️ Tech Stack
 - Python  
 - Pandas, NumPy  
